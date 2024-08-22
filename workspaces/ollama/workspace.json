@@ -1,0 +1,20 @@
+{
+  "friendly_name": "Ollama",
+  "image_src": "blob:https://brdsrntreal.github.io/c4285c43-87bd-45f4-9b05-5ad6c41f065a",
+  "description": "Ollama LLM",
+  "name": "ollama/ollama",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://index.docker.io/v1/",
+  "categories": [
+    "Communication"
+  ],
+  "require_gpu": false,
+  "enabled": true,
+  "image_type": "Container",
+  "architecture": [
+    "arm64"
+  ]
+}
