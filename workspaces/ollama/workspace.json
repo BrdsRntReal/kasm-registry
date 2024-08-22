@@ -1,6 +1,6 @@
 {
   "friendly_name": "Ollama",
-  "image_src": "blob:https://brdsrntreal.github.io/c4285c43-87bd-45f4-9b05-5ad6c41f065a",
+  "image_src": "https://ollama.com/public/ollama.png",
   "description": "Ollama LLM",
   "name": "ollama/ollama",
   "cores": 2,
