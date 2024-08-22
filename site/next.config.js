@@ -2,8 +2,8 @@
 
 const nextConfig = {
   env: {
-    name: 'Ollama-Deepseek-coder',
-    description: 'Ollamas Deepseek-coder 1b LLM.',
+    name: 'Ollama',
+    description: 'Ollamas LLM.',
     icon: 'https://ollama.com/public/ollama.png',
     listUrl: 'https://github.com/BrdsRntReal/kasm-registry/',
     contactUrl: 'https://kasmweb.com/support',
