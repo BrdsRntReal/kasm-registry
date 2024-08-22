@@ -2,10 +2,10 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
+    name: 'Ollama-Deepseek-coder',
+    description: 'Ollamas Deepseek-coder 1b LLM.',
+    icon: 'https://ollama.com/public/ollama.png',
+    listUrl: 'https://github.com/BrdsRntReal/kasm-registry/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
